@@ -1,2 +1,2 @@
-# Design-Pattern-s
-here, I some code's of software architecture and design pattern code .
+# Design-Pattern
+some code of software architecture and design pattern's.
